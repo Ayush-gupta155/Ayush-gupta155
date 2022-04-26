@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-gupta155&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gupta155" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif">
+
 
 - 🌱 I’m currently learning **Deep Learning and Big Data framework**
 
