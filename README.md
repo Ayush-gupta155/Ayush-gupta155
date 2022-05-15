@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif">
 
 
-- 🌱 I’m currently learning **Deep Learning and Big Data framework**
+- 🌱 I’m currently learning **Deep Learning and Data Engineering**
 
 - 📫 How to reach me **Agayushgupta12@gmail.com**
 
