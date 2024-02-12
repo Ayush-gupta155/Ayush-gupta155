@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Ayush Gupta</h1>
-<h3 align="center">Data Science aspirant| Deep Learning | Machine Learning | UI/UX enthusiast | Undergrad, VIT Bhopal</h3>
+<h3 align="center"Software Enginnering | Data Science | Machine Learning | UI/UX enthusiast | Undergrad, VIT Bhopal</h3>
 <h5 align="center">"DREAMS ARE REAL"</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-gupta155&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-gupta155" /> </p>
